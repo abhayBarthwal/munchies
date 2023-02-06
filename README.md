@@ -1,2 +1,2 @@
-# munchies
+## munchies
 Munchies project
